@@ -12,7 +12,6 @@ This is the main website for Horiseon Social Solution Services, Inc which descri
 ## Usage
 
 The website is accessible via [Github Pages](https://mifu666.github.io/horison-website/)
-    ```
 
 ## Credits
 
